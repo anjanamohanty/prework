@@ -12,8 +12,8 @@ end
 for i in 1..count
   is_even = even(i)
   if is_even
-    puts "#{i} is even :)"
+    puts "#{i} is even"
   else
-    puts "#{i} is odd :("
+    puts "#{i} is odd"
   end
 end
